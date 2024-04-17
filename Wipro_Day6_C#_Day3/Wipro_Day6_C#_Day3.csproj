@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Wipro_Day6_C__Day3</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <StartupObject>Wipro_Day6_C__Day3.CallByValue_Reference</StartupObject>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
